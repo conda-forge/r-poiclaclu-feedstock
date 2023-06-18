@@ -1,11 +1,11 @@
-About r-poiclaclu
-=================
+About r-poiclaclu-feedstock
+===========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-poiclaclu-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=PoiClaClu
 
 Package license: GPL-2.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-poiclaclu-feedstock/blob/main/LICENSE.txt)
 
 Summary: Implements the methods described in the paper, Witten (2011) Classification and Clustering of Sequencing Data using a Poisson Model, Annals of Applied Statistics 5(4) 2493-2518.
 
